@@ -1,3 +1,3 @@
 # Metasploit-multi-handler-shortkey
-created by wolfyy 
-special thanks to berghachus
+Created by wolfyy 
+Special thanks to jass-lachehab

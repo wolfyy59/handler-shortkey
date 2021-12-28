@@ -1,4 +1,4 @@
 # !bin/bash
 # Author : Bishal Shaw
 
-./msfconsole -r serveo.rc
+msfconsole -r serveo.rc

